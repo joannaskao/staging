@@ -86,10 +86,9 @@ $(document).ready(function() {
     text = (text) ? text : $('meta[name="twitter:description"]').attr('content');
 
     var tweet_text  = "&text=" + text,
-        related     = "&related=nypl_labs",
         counter_url = "&counturl=" + window.location.hostname + window.location.pathname;
 
-    var twitter_url = AJMINT.percentEncode(base_url + tweet_text + related + counter_url);
+    var twitter_url = AJMINT.percentEncode(base_url + tweet_text + counter_url);
 
     var settings = 'width=500,height=300,scrollbars=no,location=0,statusbars=0,menubars=0,toolbars=0,resizable=0';
     
@@ -102,7 +101,7 @@ $(document).ready(function() {
         page_url = '&link=' + window.location.href;
     
     var description = "&description="+$('meta[property="og:description"]').attr('content'),
-        redirect    = '&redirect_uri=http://nypl.org',
+        redirect    = '&redirect_uri=http://joannaskao.github.io/staging/',
         image       = '&image='+$('meta[property="og:image"]').attr('content');
 
     var facebook_url = base_url + app_id + page_url + description + redirect + image;
