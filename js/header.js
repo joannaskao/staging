@@ -98,7 +98,7 @@ $(document).ready(function() {
 
   AJMINT.sendFbShare = function(e){
     var base_url = 'http://www.facebook.com/dialog/feed',
-        app_id   = '?app_id=1486370414909348',
+        app_id   = '?app_id=836132023132571',
         page_url = '&link=' + window.location.href;
     
     var description = "&description="+$('meta[property="og:description"]').attr('content'),
