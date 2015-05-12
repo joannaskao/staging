@@ -1,0 +1,280 @@
+var data = {
+	"allegiance" : {
+		"url": "",
+		"events": [{
+			"date": "07/06/2009",
+			"article_head": "Allegiance Reading to Feature Salonga and Takei",
+			"article_text": "Tony Award winner Lea Salonga and George Takei will take part in a staged reading of the new musical Allegiance.",
+			"article_link": "http://www.playbill.com/news/article/allegiance-reading-to-feature-salonga-and-takei-162486",
+			"people_attached": ["Lea Salonga", "George Takei", "Jose Llana","James Snyder","Michael K. Lee","Enrico Rodriguez","Jennifer Paz","Michael Hagiwara","Jay Kuo","Lorenzo Thione"],
+			"people_detached": []
+		},
+		{
+			"date": "07/13/2009",
+			"article_head": "Allegiance Reading, with Salonga and Takei, Presented July 13",
+			"article_text": "Tony Award-winning actress Lea Salonga and television and film actor George Takei head the cast of a Feb. 22 private developmental staged reading of Allegiance, a new musical about Japanese-Americans who were put in camps during World War II.",
+			"article_link": "http://www.playbill.com/news/article/salonga-and-takei-to-sing-in-nyc-reading-of-musical-allegiance-with-wilfert-166083",
+			"people_attached": [],
+			"people_detached": []			
+		},
+		{
+			"date": "02/19/2010",
+			"article_head": "Salonga and Takei to Sing in NYC Reading of Musical Allegiance, With Wilfert, Montalban, Trimm and More",
+			"article_text": "Tony Award-winning actress Lea Salonga and television and film actor George Takei head the cast of a Feb. 22 private developmental staged reading of Allegiance, a new musical about Japanese-Americans who were put in camps during World War II.",
+			"article_link": "http://www.playbill.com/news/article/salonga-and-takei-to-sing-in-nyc-reading-of-musical-allegiance-with-wilfert-166083",
+			"people_attached": ["Sing Out, Louise! Productions", "Stafford Arima", "Lynne Shankel", "Telly Leung", "Kevin Gray","Allie Trimm","Michael K. Lee","Paolo Montalban","Tamlyn Tomita","Philip Hoffman","Sally Wilfert", "Louis Hobson","Adam Fleming","Gaelen Gilliland","Mary Ann Hu","Austin Ku","Daniel Levine","Kasey Marino","Doan Mackenzie", "Ann Sanders"],
+			"people_detached": []
+		},
+		{
+			"date": "10/21/2010",
+			"article_head": "Lea Salonga, George Takei, Telly Leung Set for Reading of Broadway-Bound Allegiance",
+			"article_text": "Tony winner Lea Salonga (Miss Saigon, Les Miserables) and screen star George Takei (\"Star Trek,\" \"Heroes\") will return to portray the roles of Gloria Suzuki and Old Sam Omura, respectively, in a developmental reading of the new Broadway-bound musical Allegiance, Oct. 25 at the Julia Miles Theatre in New York City.",
+			"article_link": "http://www.playbill.com/news/article/lea-salonga-george-takei-telly-leung-set-for-reading-of-broadway-bound-alle-172903",
+			"people_attached": ["Alan Ariano","Christina Toy Johnson","Paolo Montalban","Jason Tam","Raymond J. Lee","Tally Sessions","Cary Teddor","Anne Fraser Tomas","Kay Trinidad"],
+			"people_detached": ["Kevin Gray","Allie Trimm","Paolo Montalban","Tamlyn Tomita","Louis Hobson","Adam Fleming","Mary Ann Hu","Austin Ku","Kasey Marino"]
+		},
+		{
+			"date": "10/25/2010",
+			"article_head": "Lea Salonga, George Takei, Telly Leung Star in Oct. 25 Reading of Broadway-Bound Allegiance",
+			"article_text": "Tony winner Lea Salonga (Miss Saigon, Les Miserables) and screen star George Takei (\"Star Trek,\" \"Heroes\") return to portray the roles of Gloria Suzuki and Old Sam Omura, respectively, in a developmental reading of the new Broadway-bound musical Allegiance, Oct. 25 at the Julia Miles Theatre in New York City.",
+			"article_link": "http://www.playbill.com/news/article/lea-salonga-george-takei-telly-leung-star-in-oct.-25-reading-of-broadway-bo-172941",
+			"people_attached": [],
+			"people_detached": []
+		},
+		{
+			"date": "03/03/2011",
+			"article_head": "Allegiance, Musical About Japanese American Camps, Will Get Old Globe Workshop in NYC; Lea Salonga Stars",
+			"article_text": "The Old Globe in San Diego will present a private Manhattan workshop of Allegiance – A New American Musical, the original musical about a Japanese-American family forced into an internment camp on American soil during World War II. Lea Salonga is among participants.",
+			"article_link": "http://www.playbill.com/news/article/allegiance-musical-about-japanese-american-camps-will-get-old-globe-worksho-176676",
+			"people_attached": ["Christopher Gattelli", "Donyale Werle", "David Zinn"],
+			"people_detached": []
+		},
+		{
+			"date": "12/16/2011",
+			"article_head": "Allegiance, Story of an American Injustice, Will Sing at Old Globe in 2012; Lea Salonga, Telly Leung, George Takei Star",
+			"article_text": "Tony Award winner Lea Salonga, Godspell star Telly Leung and TV icon George Takei of \"Star Trek\" fame will star in the world premiere of Allegiance, the musical about forced internment of Japanese Americans during World War II. It will open The Old Globe season in San Diego in fall 2012.",
+			"article_link": "http://www.playbill.com/news/article/allegiance-story-of-an-american-injustice-will-sing-at-old-globe-in-2012-le-185638",
+			"people_attached": ["Ben Stanton", "Peter Hylenski"],
+			"people_detached": []
+		},
+		{
+			"date": "08/03/2012",
+			"article_head": "Paolo Montalban Joins Allegiance Premiere, With Lea Salonga, Telly Leung, George Takei",
+			"article_text": "The Old Globe production of Allegiance — A New American Musical, charting the lives of Japanese Americans who were placed in concentration camps on U.S. soil during World War II, will feature Paolo Montalban, Allie Trimm, Michael K. Lee, Ann Sanders and more. They and others join the previously announced George Takei, Tony Award winner Lea Salonga and Telly Leung.",
+			"article_link": "http://www.playbill.com/news/article/paolo-montalban-joins-allegiance-premiere-with-lea-salonga-telly-leung-geor-196303",
+			"people_attached": ["Paolo Montalban", "Allie Trimm", "Marc Acito", "Andrew Palermo", "Paul Nakauchi", "Katie Boren","Jon Jon Briones","Geno Carr","Karl Josef Co","Marc de la Cruz","MaryAnn Hu","Brandon Joel Maier","Kürt Norby","Jill Townsend", "Scott Watanabe", "Alejo Vietti","Howell Binkley","Jonathan Deans","Darrel Maloney","Jan Gist","Telsey + Company","Anjee Nero"],
+			"people_detached": ["Christopher Gattelli", "David Zinn", "Ben Stanton", "Peter Hylenski"]
+		},
+		{
+			"date": "03/19/2013",
+			"article_head": "Allegiance, Hoping to Plant Its Flag on Broadway, Will Get NYC Developmental Lab This Spring",
+			"article_text": "Allegiance, the award-winning new American musical about family, freedom, love and loss in Japanese internment camps on U.S. soil during World War II, will get a developmental lab staging in New York City this spring.",
+			"article_link": "http://www.playbill.com/news/article/allegiance-hoping-to-plant-its-flag-on-broadway-will-get-nyc-developmental--203549",
+			"people_attached": ["Laura Bergquist"],
+			"people_detached": []
+		},
+		{
+			"date": "05/15/2013",
+			"article_head": "Allegiance, With Lea Salonga, Planning for Spring 2014 Broadway Arrival",
+			"article_text": "Allegiance, the award-winning new American musical about Japanese American internment camps on U.S. soil during World War II, is planning to arrive on Broadway in spring 2014, a representative for the production confirmed to Playbill.com. Tony Award winner Lea Salonga will star.",
+			"article_link": "http://www.playbill.com/news/article/allegiance-with-lea-salonga-planning-for-spring-2014-broadway-arrival-205437",
+			"people_attached": [],
+			"people_detached": []
+		},
+		{
+			"date": "05/21/2013",
+			"article_head": "With Broadway in Sight, Allegiance Gets NYC Industry Reading With Lea Salonga, George Takei and Telly Leung",
+			"article_text": "Tony Award winner Lea Salonga, George Takei and Telly Leung were part of a May 20 New York City industry presentation of Allegiance, the award-winning new musical by Jay Kuo, Marc Acito and Lorenzo Thione.",
+			"article_link": "http://www.playbill.com/news/article/with-broadway-in-sight-allegiance-gets-nyc-industry-reading-with-lea-salong-205650",
+			"people_attached": ["Diane Phelan", "Aaron Albano", "Aaron Finley", "Will Ray", "Marcus Choi", "Kenneth Lee"],
+			"people_detached": ["Paolo Montalban", "Geno Carr", "Karl Josef Co", "Brandon Joel Maier", "Kürt Norby", "Jill Townsend"]
+		},
+		{
+			"date": "02/05/2015",
+			"article_head": "New Musical Allegiance, Starring George Takei, Will Open on Broadway in the Fall",
+			"article_text": "Producers Lorenzo Thione and Andrew Treagus announced Feb. 5 that the new musical Allegiance will open on Broadway next season at a Shubert theatre to be announced.",
+			"article_link": "http://www.playbill.com/news/article/new-musical-allegiance-starring-george-takei-will-open-on-broadway-in-the-fall-341009",
+			"people_attached": ["Andrew Treagus"],
+			"people_detached": []
+		},
+		{
+			"date": "03/12/2015",
+			"article_head": "Lea Salonga Will Join George Takei in New Broadway Musical Allegiance",
+			"article_text": "Producers Lorenzo Thione and Andrew Treagus announced March 12 that Tony Award winner Lea Salonga and Telly Leung will join the previously announced George Takei in the Broadway premiere of the new musical Allegiance next season.",
+			"article_link": "http://www.playbill.com/news/article/lea-salonga-will-join-george-takei-in-new-broadway-musical-allegiance-344037",
+			"people_attached": [],
+			"people_detached": []
+		}]
+	},
+	"finding neverland" : {
+		"url": "",
+		"events": [{
+			"date": "05/04/2005",
+			"article_head": "Motion Picture Finding Neverland Being Explored as a Stage Musical",
+			"article_text": "Allan Knee, librettist of the Broadway musical Little Women, is adapting the motion picture \"Finding Neverland\" into a stage musical, Playbill.com has learned.",
+			"article_link": "http://www.playbill.com/news/article/motion-picture-finding-neverland-being-explored-as-a-stage-musical-125732",
+			"people_attached": ["Allan Knee", "Harvey Weinstein"],
+			"people_detached": []
+		},
+		{
+			"date": "01/16/2008",
+			"article_head": "Frankel & Korie Are Writing Finding Neverland Musical",
+			"article_text": "The Tony Award-nominated songwriting team of composer Scott Frankel and lyricist Michael Korie — who navigated the temporal and emotional maze of Grey Gardens — are writing the score to the new musical, Finding Neverland, in development by Weinstein Live Entertainment.",
+			"article_link": "http://www.playbill.com/news/article/frankel-korie-are-writing-finding-neverland-musical-146895",
+			"people_attached": ["Scott Frankel", "Michael Korie"],
+			"people_detached": []
+		},
+		{
+			"date": "12/08/2008",
+			"article_head": "Finding Neverland, the Musical, Tests Its Wings in NYC Reading",
+			"article_text": "A closed industry reading of the new musical Finding Neverland, based on the romantic tear-jerker film about James M. Barrie's attachment to four young boys whose mother is ill, will be held Dec. 8 in Manhattan.",
+			"article_link": "http://www.playbill.com/news/article/finding-neverland-the-musical-tests-its-wings-in-nyc-reading-155879",
+			"people_attached": ["Rob Ashford", "Kate Baldwin","Christian Borle (as Barrie)","Brian D'Addario","Michael D'Addario","Blythe Danner","Erin Davie","Dalton Harrod","Tom Hewitt","Katie Holmes","Marc Kudisch","Daniel Marconi","Anne L. Nathan","Denis O'Hare","Brynn O'Malley","Clarke Thorell","Jon Patrick Walker","Wayne Wilcox"],
+			"people_detached": []
+		},
+		{
+			"date": "06/08/2009",
+			"article_head": "Borle, O'Hara, Kudisch, Peil, Moran, Davi Appeared in Finding Neverland Reading",
+			"article_text": "Weinstein Live Entertainment presented an industry reading of the latest draft of the musical Finding Neverland on June 5.",
+			"article_link": "http://www.playbill.com/news/article/borle-ohara-kudisch-peil-moran-davi-appeared-in-finding-neverland-reading-161651",
+			"people_attached": ["Stephanie Youell Binetti","Paula Leggett Chase","David Costabile","Mara Davi","Sean Martin Hingston","Richard Kind","Michael X. Martin","Martin Moran","Kelli O'Hara","Jill Paice","Mary Beth Peil","Stephen Plunkett"],
+			"people_detached": ["Kate Baldwin","Blythe Danner","Erin Davie","Tom Hewitt","Katie Holmes","Anne L. Nathan","Denis O'Hare","Brynn O'Malley","Clarke Thorell","Jon Patrick Walker","Wayne Wilcox"]
+		},
+		{
+			"date": "04/13/2010",
+			"article_head": "EXCLUSIVE: Korie Reveals Ashford to Direct Neverland; McAnuff Set for Australian Dr. Zhivago",
+			"article_text": "Finding Neverland, the new musical from Tony nominated Grey Gardens songwriters Michael Korie and Scott Frankel, is looking to fly onto the stage in the near future.",
+			"article_link": "http://www.playbill.com/news/article/exclusive-korie-reveals-ashford-to-direct-neverland-mcanuff-set-for-austral-167617",
+			"people_attached": [],
+			"people_detached": []
+		},
+		{
+			"date": "02/06/2011",
+			"article_head": "Finding Neverland, Directed and Choreographed by Rob Ashford, Will Premiere at La Jolla Playhouse",
+			"article_text": "Finding Neverland, the musical about the children who inspired J.M. Barrie to create Peter Pan, will get its world premiere at La Jolla Playhouse in the 2011-12 season. Scott Frankel (music) and Michael Korie (lyrics), the songwriting team of Grey Gardens, will write the score.",
+			"article_link": "http://www.playbill.com/news/article/finding-neverland-directed-and-choreographed-by-rob-ashford-will-premiere-a-175896",
+			"people_attached": [],
+			"people_detached": []
+		},
+		{
+			"date": "03/31/2011",
+			"article_head": "Finding Neverland, the Musical, Gets NYC Presentation With Kelli O'Hara and Julian Ovenden",
+			"article_text": "Before it flies to its fall world premiere at La Jolla Playhouse in California, the musical Finding Neverland will get its latest developmental reading presentation March 31 in Manhattan, Playbill.com has learned.",
+			"article_link": "http://www.playbill.com/news/article/finding-neverland-the-musical-gets-nyc-presentation-with-kelli-ohara-and-ju-177796",
+			"people_attached": ["Julian Ovenden", "Tony Roberts", "Michael Cumpsty", "Meredith Patterson"],
+			"people_detached": []
+		},
+		{
+			"date": "07/18/2011",
+			"article_head": "Stratford Festival's Jesus Christ Superstar Will Replace Finding Neverland in La Jolla Season",
+			"article_text": "The Stratford Shakespeare Festival's popular Des McAnuff-directed revival of Jesus Christ Superstar will move to La Jolla Playhouse in southern California, starting in November. It replaces the world premiere of the musical Finding Neverland.",
+			"article_link": "http://www.playbill.com/news/article/stratford-festivals-jesus-christ-superstar-will-replace-finding-neverland-i-181003",
+			"people_attached": [],
+			"people_detached": []
+		},
+		{
+			"date": "11/22/2011",
+			"article_head": "Finding Neverland Musical Will Get London Industry Presentation With Julian Ovenden and Jenna Russell",
+			"article_text": "Finding Neverland, the American musical about the family that inspired J.M. Barrie to write his \"Peter Pan\" stories, will resurface in a London reading in December.",
+			"article_link": "http://www.playbill.com/news/article/finding-neverland-musical-will-get-london-industry-presentation-with-julian-184843",
+			"people_attached": ["Jenna Russell"],
+			"people_detached": []
+		},
+		{
+			"date": "07/05/2012",
+			"article_head": "Finding Neverland Musical Cast to Feature Liz Robertson, Norman Bowman, Clare Foster and More",
+			"article_text": "",
+			"article_link": "",
+			"people_attached": ["Rosalie Craig", "Jenna Russell", "Oliver Boot","Norman Bowman","Claire Foster","Vince Leigh","Stuart Neal","Liz Robertson","Matt Wilman"],
+			"people_detached": []
+		},
+		{
+			"date": "06/07/2013",
+			"article_head": "Finding Neverland Musical Adds Diane Paulus, Gary Barlow and James Graham to Creative Team",
+			"article_text": "U.K. singer-songwriter Gary Barlow, playwright James Graham and Tony Award nominee Diane Paulus have joined the creative team for the new musical Finding Neverland.",
+			"article_link": "http://www.playbill.com/news/article/finding-neverland-musical-adds-diane-paulus-gary-barlow-and-james-graham-to-206316",
+			"people_attached": ["James Graham", "Diane Paulus"],
+			"people_detached": ["Rob Ashford"]
+		},
+		{
+			"date": "08/30/2013",
+			"article_head": "Revamped Finding Neverland Has NYC Reading With Laura Michelle Kelly and Brian D'Arcy James",
+			"article_text": "A recent New York City reading of a reworked version of the new musical Finding Neverland, which premiered last year in the U.K., featured Laura Michelle Kelly, Jason Alexander, Brian d'Arcy James and Kathleen Chalfant in the leading roles, according to the Daily Mail.",
+			"article_link": "http://www.playbill.com/news/article/revamped-finding-neverland-has-nyc-reading-with-laura-michelle-kelly-and-br-209031",
+			"people_attached": ["Laura Michelle Kelly","Jason Alexander","Brian d'Arcy James","Kathleen Chalfant"],
+			"people_detached": ["Julian Ovenden", "Jenna Russell"]
+		},
+		{
+			"date": "10/03/2013",
+			"article_head": "New Writing Team Will Workshop Finding Neverland Musical With Diane Paulus",
+			"article_text": "A revised production of Finding Neverland, directed by Tony Award winner Diane Paulus, will receive a 2014 workshop in New York City, according to an Equity casting notice.",
+			"article_link": "http://www.playbill.com/news/article/new-writing-team-will-workshop-finding-neverland-musical-with-diane-paulus-210222",
+			"people_attached": ["Gary Barlow", "Eliot Kennedy", "David Chase", "Barry Weissler"],
+			"people_detached": ["Scott Frankel", "Michael Korie", "Allan Knee"]
+		},
+		{
+			"date": "02/27/2014",
+			"article_head": "Matthew Morrison and Laura Michelle Kelly Set for Finding Neverland Musical Workshop",
+			"article_text": "Tony Award nominee Matthew Morrison will star as J.M. Barrie in a workshop of the revised stage adaptation of the new musical Finding Neverland, the New York Times reports.",
+			"article_link": "http://www.playbill.com/news/article/matthew-morrison-and-laura-michelle-kelly-set-for-finding-neverland-musical-215428",
+			"people_attached": ["Matthew Morrison"],
+			"people_detached": ["Brian d'Arcy James"]
+		},
+		{
+			"date": "03/27/2014",
+			"article_head": "Revised Finding Neverland Musical Will Premiere as Part of American Repertory Theater's 2014-15 Season",
+			"article_text": "The new stage musical adaptation of Finding Neverland, featuring a score by Gary Barlow and Eliot Kennedy, will premiere as part of the 2014-15 season at the American Repertory Theater. Also announced are world premieres from Eve Ensler, Susan Stroman, Mandy Patinkin and Taylor Mac.",
+			"article_link": "http://www.playbill.com/news/article/revised-finding-neverland-musical-will-premiere-as-part-of-american-reperto-216568",
+			"people_attached": [],
+			"people_detached": []
+		},
+		{
+			"date": "06/02/2014",
+			"article_head": "Jeremy Jordan and Laura Michelle Kelly to Star in Finding Neverland Premiere; Complete Cast Announced",
+			"article_text": "Jeremy Jordan and Laura Michelle Kelly will lead the cast of the American Repertory Theater world premiere of Finding Neverland, which will take flight this July under the direction of Tony Award winner Diane Paulus.",
+			"article_link": "http://www.playbill.com/news/article/jeremy-jordan-and-laura-michelle-kelly-to-star-in-finding-neverland-premier-218979",
+			"people_attached": ["Jeremy Jordan", "Roger Bart", "Carolee Carmello","Jeanna de Waal","Aidan Gemme","Alex Dreier","Sawyer Nunes","Hayden Signoretti", "Scott Pask", "Suttirat Anne Larlarb", "Philip Rosenberg", "Jonathan Deans", "Gilles Papain", "Daniel Wurtzel", "Mary-Mitchell Campbell", "Simon Hale", "Mia Michaels"],
+			"people_detached": ["Matthew Morrison", "Jason Alexander"]
+		},
+		{
+			"date": "06/12/2014",
+			"article_head": "Tony Winner Swap: Michael McGrath To Replace Roger Bart in A.R.T.'s Finding Neverland Opening July 23",
+			"article_text": "Deadline.com announced that Tony-winner Roger Bart (The Producers, Young Frankenstein) has left Diane Paulus' Broadway-bound production of Finding Neverland, slated to begin performances July 23 at American Repertory Theatre in Cambridge, MA -– Tony-winner Michael McGrath (Nice Work If You Can Get It) will take over Bart's character, theatrical producer Charles Frohman.",
+			"article_link": "http://www.playbill.com/news/article/tony-winner-swap-michael-mcgrath-to-replace-roger-bart-in-a.r.t.s-finding-n-322454",
+			"people_attached": ["Michael McGrath"],
+			"people_detached": ["Roger Bart"]
+		},
+		{
+			"date": "08/13/2014",
+			"article_head": "A.R.T.'s Neverland Will Find Its Way to Broadway This March",
+			"article_text": "The world-premiere musical Finding Neverland, which officially opens Aug. 13 at the American Repertory Theater under the direction of Tony Award winner Diane Paulus, will begin performances on Broadway in March 2015, a spokesperson for the production confirmed to Playbill.com.",
+			"article_link": "http://www.playbill.com/news/article/a.r.t.s-neverland-will-find-its-way-to-broadway-this-march-326763",
+			"people_attached": [],
+			"people_detached": []
+		},
+		{
+			"date": "11/12/2014",
+			"article_head": "Kelsey Grammer and Laura Michelle Kelly Make Plans for Broadway's Neverland",
+			"article_text": "Emmy Award-winning actor Kelsey Grammer and Olivier Award-winning actress Laura Michelle Kelly will join \"Glee\" star Matthew Morrison in the Broadway production of Finding Neverland, according to the New York Times.",
+			"article_link": "http://www.playbill.com/news/article/kelsey-grammer-and-laura-michelle-kelly-make-plans-for-broadways-neverland-335359",
+			"people_attached": ["Kelsey Grammer", "Matthew Morrison"],
+			"people_detached": ["Michael McGrath", "Jeremy Jordan"]
+		},
+		{
+			"date": "11/10/2014",
+			"article_head": "Matthew Morrison Will Star in Broadway's Finding Neverland; New Opening Night Set",
+			"article_text": "Tony Award nominee and \"Glee\" star Matthew Morrison has been announced to portray Peter Pan author J.M. Barrie when the new musical Finding Neverland arrives on Broadway in March 2015 at the Lunt-Fontanne Theatre. He succeeds Jeremy Jordan, who created the role in the musical's American Repertory Theater premiere last summer.",
+			"article_link": "http://www.playbill.com/news/article/matthew-morrison-will-star-in-broadways-finding-neverland-new-opening-night-set-335128",
+			"people_attached": ["Kenneth Posner"],
+			"people_detached": ["Philip Rosenberg"]
+		},
+		{
+			"date": "03/15/2015",
+			"article_head": "Matthew Morrison Is Finding Neverland; Broadway Performances Begin Tonight",
+			"article_text": "Finding Neverland, the new Broadway musical that tells the tale of how Peter became Pan, begins performances March 15 at the Lunt-Fontanne Theatre.",
+			"article_link": "http://www.playbill.com/news/article/matthew-morrison-is-finding-neverland-broadway-performances-begin-tonight-344154",
+			"people_attached": [],
+			"people_detached": []
+		}]
+	}
+}

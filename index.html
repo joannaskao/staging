@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge;chrome=1">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="format-detection" content="telephone=no">
+
+  <meta property="og:url" content="" />
+  <meta property="og:site_name" content="" />
+  <meta property="og:title" content="" />
+  <meta property="og:type" content="" />
+  <meta property="og:image" content="" />
+  <meta property="og:description" content="" />
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="">
+  <meta name="twitter:title" content="">
+  <meta name="twitter:description" content="">
+  <meta name="twitter:creator" content="">
+  <meta name="twitter:image:src" content=""> <!-- at least 280px x 150px for Twitter (image must be < 1MB) -->
+  <meta name="twitter:domain" content="">
+  <meta name="twitter:app:name:iphone" content="">
+  <meta name="twitter:app:name:ipad" content="">
+  <meta name="twitter:app:name:googleplay" content="">
+  <meta name="twitter:app:url:iphone" content="">
+  <meta name="twitter:app:url:ipad" content="">
+  <meta name="twitter:app:url:googleplay" content="">
+  <meta name="twitter:app:id:iphone" content="">
+  <meta name="twitter:app:id:ipad" content="">
+  <meta name="twitter:app:id:googleplay" content="">
+
+
+  <title>Staging: The Ins and Outs of Broadway Theater</title>
+  <link rel="shortcut icon" href="/favicon.ico" />
+
+  <link rel="stylesheet" type="text/css" href="css/ajmint-icons.css" />
+  <link rel="stylesheet" type="text/css" href="css/social-counter.css" />
+  <link rel="stylesheet" type="text/css" href="css/base.css" />
+  <link rel="stylesheet" type="text/css" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css" />
+  <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
+
+</head>
+<body>
+
+  <div id="main-wrapper">
+    <div id="intro">
+      <h1>Staging</h1>
+      <div class="ajmint-social-counts">
+        <div class="ajmint-social-counts-container">
+          <ul>
+            <li>
+              <span data-type="facebook" class="ajmint-social-btn">
+                <span class="ajmint-icon-social-count empty">0</span>
+                <span class="ajmint-icon-facebook"></span>
+              </span>
+            </li>
+            <li>
+              <span data-type="twitter" class="ajmint-social-btn">
+                <span class="ajmint-icon-social-count empty">0</span>
+                <span class="ajmint-icon-twitter"></span>
+              </span>
+            </li>
+            <li>
+              <span data-type="gplus" class="ajmint-social-btn">
+                <span class="ajmint-icon-social-count empty">0</span>
+                <span class="ajmint-icon-gplus"></span>
+              </span>
+            </li>
+            <li>
+              <span data-type="reddit" class="ajmint-social-btn">
+                <span class="ajmint-icon-social-count empty">0</span>
+                <span class="ajmint-icon-reddit"></span>
+              </span>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div id="visualization-container">
+      <div id="search">
+        Search for a show: &nbsp;<input type="text" placeholder="Enter a show name" id="showInput" />
+        <input type="submit" id="showSubmit" />
+        <div id="show-format-error">Unfortunately, this show does not exist in our database. Try again.</div>
+      </div>
+
+
+      <h3 id="showName"></h3>
+      <div id="year-container"></div>
+      <div id="timeline-container"></div>
+
+    </div>
+
+  </div>
+
+  
+  <script src="js/thirdparty/jquery.1.10.2.min.js"></script>
+  <script src="js/thirdparty/jquery-ui.js"></script>
+  <script src="js/thirdparty/underscore-min.js"></script>
+  <script src="js/thirdparty/backbone-min.js"></script>
+  <script src="js/thirdparty/moment.js"></script>
+  <script src="js/thirdparty/moment-duration-format.js"></script>
+  <script src="js/thirdparty/d3.min.js"></script>
+  <script src="js/thirdparty/d3.tip.v0.6.3.js"></script>
+  <script src="js/thirdparty/d3.legend.js"></script>
+  <script src="js/thirdparty/jquery.scrollTo.min.js"></script>
+  <script src="js/header.js"></script>
+  <script src="js/data.json"></script>
+  <script src="js/main.js"></script>
+
+  <script type="text/javascript">
+
+    // var _gaq = _gaq || [];
+    // _gaq.push(['_setAccount', 'UA-25445414-1']);
+    // _gaq.push(['_trackPageview']);
+
+    // (function() {
+    //   var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    //   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    //   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    // })();
+
+  </script>
+
+</body>
+</html>
